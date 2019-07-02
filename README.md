@@ -1,6 +1,7 @@
 ## Scholar Management Portal
 
-	It is portal for phd students where they can see see their results, add achievements, add publications and they can see the DC 		Committee Details.
+	It is portal for phd students where they can see see their results, add achievements, 
+	add publications and they can see the DC Committee Details.
 
 ## Requirements and Installation
 
